@@ -1,0 +1,11 @@
+{
+    "balance": 4586.83,
+    "due-date": 1613347200000,
+    "past-due": 1448.43,
+    "fees": 20.00,
+    "current-due": 482.81,
+    "payment-type": "cc",
+    "payment-details": "7862",
+    "loan-balance": 42586.83,
+    "loan-number": "9629-0385-7137"
+}
